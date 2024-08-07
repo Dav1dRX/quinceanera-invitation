@@ -1,0 +1,16 @@
+.silver-text {
+    font-size: 1rem; /* Ajusta el tamaño según tu necesidad */
+    font-weight: bold;
+    background: linear-gradient(90deg, #e0e0e0, #f5f5f5, #c0c0c0, #dcdcdc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% auto;
+    animation: shine 3s linear infinite;
+  }
+  
+  @keyframes shine {
+    to {
+      background-position: 200% center;
+    }
+  }
+  

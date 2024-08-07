@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "mi-fiesta-f786e",
+    "fiesta": "mi-fiesta-f786e"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

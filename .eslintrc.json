@@ -1,0 +1,6 @@
+{
+    "extends": [
+      // ... otras extensiones
+      "plugin:react-hooks/recommended"
+    ]
+  }
